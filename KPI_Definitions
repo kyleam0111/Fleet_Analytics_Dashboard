@@ -1,0 +1,19 @@
+# Fleet Operations KPI Definitions
+
+These KPIs model the core performance metrics used in fleet management and transportation analytics.
+
+### Preventive Maintenance (PM) Compliance
+Percentage of vehicles with PM completed on time during the selected period.
+Formula: (Completed PM Jobs / Scheduled PM Jobs) * 100
+
+### Average Repair Cost per Vehicle
+Total repair spend divided by distinct vehicle count.
+Formula: SUM(RepairCost) / DISTINCTCOUNT(VehicleID)
+
+### Utilization Rate
+Average daily usage measured in miles or hours.
+Formula: AVERAGE(Utilization) / Time Period
+
+### Cost per Mile
+Total repair and maintenance cost divided by total miles traveled.
+Formula: SUM(RepairCost) / SUM(Miles)
