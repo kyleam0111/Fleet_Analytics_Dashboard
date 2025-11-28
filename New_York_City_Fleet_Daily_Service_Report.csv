@@ -1,0 +1,40 @@
+Date,Agency,Fleet Name,Fleet Roster,Target Daily in Service,Target % In Service,Actual Count In Service,Average Over FY 18 to Date,Seasonal Flag,Agency Total,Critical Fleet Only?,Description
+07/15/2022,DCAS Managed,All vehicles,2592,2436,0.94,2561,2552,N,Y,N,Agency total: Includes DCAS and all client agencies
+07/15/2022,DEP,All vehicles,2304,2074,0.9,2025,2039,N,Y,N,Agency total
+07/15/2022,DOC,All vehicles,721,649,0.9,684,680,N,Y,N,Agency total
+07/15/2022,DOE,All vehicles,334,314,0.94,332,331,N,Y,N,Agency total
+07/15/2022,DOHMH,All vehicles,276,259,0.94,268,266,N,Y,N,Agency total
+07/15/2022,DOT,All vehicles,3999,3399,0.85,3591,3615,N,Y,N,Agency total
+07/15/2022,DSNY,All vehicles,5951,4642,0.78,4715,4705,N,Y,N,Agency total
+07/15/2022,FDNY,All vehicles,2347,1878,0.8,1852,1872,N,Y,N,Agency total
+07/15/2022,NYPD,All vehicles,9545,8591,0.9,8555,8598,N,Y,N,Agency total
+07/15/2022,Parks,All vehicles,2859,2573,0.9,2628,2625,N,Y,N,Agency total
+07/15/2022,Citywide,NYC fleet overall,30928,27835,0.9,27211,27288,N,Y,N,Citywide fleet total in service
+07/15/2022,DCAS,Mayoral fleet,50,47,0.94,49,48,N,N,Y,Critical Fleet
+07/15/2022,DCAS,OEM,138,130,0.94,138,138,N,N,Y,Critical Fleet
+07/15/2022,DCAS,Sheriff,118,111,0.94,118,117,N,N,Y,Critical Fleet
+07/15/2022,DEP,Customer service,105,99,0.94,93,94,N,N,Y,Critical Fleet
+07/15/2022,DEP,Environmental compliance,96,90,0.94,88,86,N,N,Y,Critical Fleet
+07/15/2022,DEP,Police,138,130,0.94,127,126,N,N,Y,Critical Fleet
+07/15/2022,DEP,Sewer and water,1118,1006,0.9,946,955,N,N,Y,Critical Fleet
+07/15/2022,DOC,Buses,114,103,0.9,110,109,N,N,Y,Critical Fleet
+07/15/2022,DOC,Sedans,87,78,0.9,86,86,N,N,Y,Critical Fleet
+07/15/2022,DOC,Vans,135,122,0.9,129,127,N,N,Y,Critical Fleet
+07/15/2022,DOE,Food services,35,32,0.91,35,35,N,N,Y,Critical Fleet
+07/15/2022,DOT,Asphalt plant,45,38,0.84,39,38,N,N,Y,Critical Fleet
+07/15/2022,DOT,HIQA,159,143,0.9,159,159,N,N,Y,Critical Fleet
+07/15/2022,DOT,Material hauling,287,244,0.85,227,226,N,N,Y,Critical Fleet
+07/15/2022,DOT,Meters,151,128,0.85,135,138,N,N,Y,Critical Fleet
+07/15/2022,DOT,Paving,474,403,0.85,423,428,N,N,Y,Critical Fleet
+07/15/2022,DSNY,Collection trucks,1406,1153,0.82,1079,1069,N,N,Y,Critical Fleet
+07/15/2022,DSNY,Dual bin collection trucks,602,494,0.82,458,464,N,N,Y,Critical Fleet
+07/15/2022,DSNY,Sweepers,432,333,0.77,310,302,N,N,Y,Critical Fleet
+07/15/2022,FDNY,Ambulances,677,508,0.75,421,425,N,N,Y,Critical Fleet
+07/15/2022,FDNY,Ladders,183,137,0.75,139,140,N,N,Y,Critical Fleet
+07/15/2022,FDNY,Pumpers,240,180,0.75,188,196,N,N,Y,Critical Fleet
+07/15/2022,NYPD,Traffic,539,485,0.9,480,480,N,N,Y,Critical Fleet
+07/15/2022,Parks,Forestry,169,152,0.9,135,138,N,N,Y,Critical Fleet
+07/15/2022,Parks,Packers,113,102,0.9,94,91,N,N,Y,Critical Fleet
+07/15/2022,Citywide,NYC Critical Fleet Overall,7611,6448,0.85,6206,6225,N,N,Y,Critical Fleet
+07/15/2022,DSNY,Salt Spreaders,408,408,1,,,Y,N,Y,Seasonal Fleet: DSNY Salt Spreader Trucks
+07/15/2022,Parks,Beach,83,75,0.9,72,72,Y,N,Y,Seasonal Fleet: Beach
